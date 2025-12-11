@@ -1,5 +1,9 @@
 ## Software Engineer
 
+
+I am a passionate software engineer specializing in cloud computing, full-stack web development, and game development.  
+I enjoy solving complex problems, building scalable solutions, and continuously learning new technologies.  
+
 ### 🛠 Languages and Tools
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
