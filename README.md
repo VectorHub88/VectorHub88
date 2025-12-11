@@ -5,8 +5,6 @@
 I enjoy solving complex problems, building scalable solutions, and continuously learning new technologies.  </h3>
 <br>
 
-### 🛠 Languages and Tools
-
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <p align="center">
