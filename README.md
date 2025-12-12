@@ -15,7 +15,7 @@ Clear Cache
 
 
 
-## Fullstack Deeptech Developer (Blockchain, AI, and more!)
+## Fullstack Software Engineer (Devops, AI, and more!)
 
 ⦓ Why just dream when you can build your reality? ⦔
 <p style = "margin-left: 30px">
@@ -24,23 +24,6 @@ Deep understanding of logic and programming algorithms.<br>
 Bringing projects to completion!<br>
 Transparent, communicative, dedicated and superior development.<br>
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prestonzen/prestonzen/refs/heads/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prestonzen/prestonzen/refs/heads/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
 
 ### Skills, Languages, and Tools:
 <!--
