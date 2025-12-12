@@ -1,11 +1,6 @@
 <!--
 Clear Cache
 -->
-<p align="center">
-  <img src="https://githubstats.prestonzen.com/api?username=prestonzen&show_icons=true&theme=dark&cache_seconds=3600" alt="my github stats" height="190px" />
-  &nbsp;
-  <img src="https://githubstats.prestonzen.com/api/top-langs/?username=prestonzen&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true&cache_seconds=3600" height="190px" />
-</p>
 
 
 <!--
@@ -17,6 +12,18 @@ Clear Cache
     <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
 </p>
 -->
+
+
+
+## Fullstack Deeptech Developer (Blockchain, AI, and more!)
+
+⦓ Why just dream when you can build your reality? ⦔
+<p style = "margin-left: 30px">
+Deep understanding of logic and programming algorithms.<br>
+8+ years of development experience on projects ranging from small size applications to complex enterprise solutions.<br>
+Bringing projects to completion!<br>
+Transparent, communicative, dedicated and superior development.<br>
+</p>
 
 <p align="center">
   <picture>
@@ -34,15 +41,6 @@ Clear Cache
   </a>
 </p>
 
-## Fullstack Deeptech Developer (Blockchain, AI, and more!)
-
-⦓ Why just dream when you can build your reality? ⦔
-<p style = "margin-left: 30px">
-Deep understanding of logic and programming algorithms.<br>
-8+ years of development experience on projects ranging from small size applications to complex enterprise solutions.<br>
-Bringing projects to completion!<br>
-Transparent, communicative, dedicated and superior development.<br>
-</p>
 
 ### Skills, Languages, and Tools:
 <!--
