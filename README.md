@@ -39,7 +39,7 @@ Clear Cache
 ⦓ Why just dream when you can build your reality? ⦔
 <p style = "margin-left: 30px">
 Deep understanding of logic and programming algorithms.<br>
-10+ years of development experience on projects ranging from small size applications to complex enterprise solutions.<br>
+8+ years of development experience on projects ranging from small size applications to complex enterprise solutions.<br>
 Bringing projects to completion!<br>
 Transparent, communicative, dedicated and superior development.<br>
 </p>
