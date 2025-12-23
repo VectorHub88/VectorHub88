@@ -1,4 +1,4 @@
-👋 Hi, I’m a Full-Stack Software Engineer
+#  I’m a Full-Stack Software Engineer
 
 I build scalable, production-ready web and SaaS applications.
 
