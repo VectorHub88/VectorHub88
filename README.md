@@ -1,113 +1,86 @@
-<!--
-Clear Cache
--->
+# 👋 Hi, I’m a Full-Stack Software Engineer
 
+**DevOps • Cloud • AI • SaaS • Startups**
 
-<!--
+> *Why just dream when you can build your reality?*
 
--->
+I’m a **Full-Stack Software Engineer with 5+ years of professional experience**, building products ranging from **early-stage startups** to **large-scale enterprise and healthcare systems**.  
+I specialize in **end-to-end development** — from system design and backend architecture to frontend experiences, cloud infrastructure, and CI/CD automation.
 
-<!--
-<p align="center">
-    <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-</p>
--->
+I enjoy solving **real problems**, shipping **production-ready software**, and working with **global, distributed teams**.
 
+---
 
+## 🚀 What I Do Best
 
-## Fullstack Software Engineer (Devops, AI, and more!)
+- Design and build **scalable web & SaaS platforms**
+- Develop **robust backend services & APIs**
+- Create **modern frontend applications**
+- Architect **cloud-native infrastructure**
+- Automate **CI/CD & DevOps workflows**
+- Apply **AI / ML solutions** where they create real value
 
-⦓ Why just dream when you can build your reality? ⦔
-<p style = "margin-left: 30px">
-Deep understanding of logic and programming algorithms.<br>
-8+ years of development experience on projects ranging from small size applications to complex enterprise solutions.<br>
-Bringing projects to completion!<br>
-Transparent, communicative, dedicated and superior development.<br>
-</p>
+---
 
-### Skills, Languages, and Tools:
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prestonzen&layout=donut)
--->
-#### No Code Builders
-[![No Code Builders](https://skillicons.dev/icons?i=wordpress,webflow&theme=dark)](https://skillicons.dev)
+## 🧠 Core Strengths
 
-#### Mobile Application Technologies
-[![Mobile Application Technologies](https://skillicons.dev/icons?i=dart,flutter,java,kotlin,swift&theme=dark)](https://skillicons.dev)
+- Strong foundation in **algorithms, data structures, and system design**
+- Experience across **healthcare, SaaS, startups, and enterprise software**
+- Proven ability to **own projects end-to-end**
+- Clear communicator, pragmatic problem solver, delivery-focused
 
-#### PHP Stack
-[![PHP Stack](https://skillicons.dev/icons?i=php,laravel,symfony&theme=dark)](https://skillicons.dev)
+---
 
-#### JavaScript Technologies
-[![Javascript Stack](https://skillicons.dev/icons?i=javascript,vue,vuetify,nuxt,react,next,ts,angular,express,nodejs,npm,yarn&theme=dark)](https://skillicons.dev)
+## 🛠 Tech Stack
 
-#### Python Stack
-[![Python Stack](https://skillicons.dev/icons?i=anaconda,python,django,flask,fastapi&theme=dark)](https://skillicons.dev)
+### No-Code & CMS
+![No Code](https://skillicons.dev/icons?i=wordpress,webflow&theme=dark)
 
-#### Ruby Stack
-[![Ruby Stack](https://skillicons.dev/icons?i=ruby,rails&theme=dark)](https://skillicons.dev)
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=react,next,vue,nuxt,angular,ts,js,html,css,tailwind,bootstrap&theme=dark)
 
-#### Database Technologies
-[![Database Technologies](https://skillicons.dev/icons?i=firebase,mysql,mongodb,postgres,redis,ipfs&theme=dark)](https://skillicons.dev)
+### Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express,php,laravel,symfony,python,django,flask,fastapi,ruby,rails,java&theme=dark)
 
-#### Blockchain Technologies
-[![Blockchain Technologies](https://skillicons.dev/icons?i=solidity&theme=dark)](https://skillicons.dev)
+### Mobile
+![Mobile](https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift&theme=dark)
 
-#### Cloud Enviornments
-[![Cloud Enviornments](https://skillicons.dev/icons?i=aws,gcp,azure,replit,netlify,cloudflare&theme=dark)](https://skillicons.dev)
+### Databases
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase&theme=dark)
 
-#### Devops Tools
-[![Devops Tools](https://skillicons.dev/icons?i=docker,ansible,kubernetes,git,gitlab,githubactions,github,jenkins&theme=dark)](https://skillicons.dev)
+### Cloud & DevOps
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,ansible,jenkins,githubactions,git,gitlab,cloudflare&theme=dark)
 
-#### Monitoring & Testing Tools
-[![Monitoring Tools](https://skillicons.dev/icons?i=elasticsearch,stackoverflow,obsidian&theme=dark)](https://skillicons.dev)
+### AI / Machine Learning
+![AI](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark)
 
-#### AI & Machine Learning Technologies
-[![AI & Machine Learning Technologies](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark)](https://skillicons.dev)
+### Low-Level & Performance
+![Low Level](https://skillicons.dev/icons?i=go,rust,cpp,c&theme=dark)
 
-#### Low Level Programming
-[![Low Level Programming](https://skillicons.dev/icons?i=rust,cpp,c,go&theme=dark)](https://skillicons.dev)
+### Game & 3D (Side Projects)
+![Game Dev](https://skillicons.dev/icons?i=unity,unreal,godot,blender,cpp,csharp&theme=dark)
 
-#### Frontend Frameworks
-[![Frontend Frameworks](https://skillicons.dev/icons?i=materialui,bootstrap,html,css,tailwind&theme=dark)](https://skillicons.dev)
+### OS & Tooling
+![OS](https://skillicons.dev/icons?i=linux,bash,ubuntu,redhat,windows,powershell,apple&theme=dark)
 
-#### API Frameworks
-[![API Frameworks](https://skillicons.dev/icons?i=graphql,postman,tailwind&theme=dark)](https://skillicons.dev)
+---
 
-#### Game Development
-[![3D Modeling and Game Development](https://skillicons.dev/icons?i=lua,robloxstudio,blender,gamemakerstudio,ps,godot,cpp,c#,unreal,unity#&theme=dark)](https://skillicons.dev)
+## 🌍 Work Style & Values
 
-#### Operating Systems & Interfaces
-[![Operating Systems](https://skillicons.dev/icons?i=windows,powershell,linux,bash,arch,apple,ubuntu,redhat,raspberrypi&theme=dark)](https://skillicons.dev)
+- Clean, maintainable, well-documented code
+- Pragmatic architecture over over-engineering
+- Strong ownership mindset
+- Continuous learning and improvement
+- Collaboration > ego
 
-<!--
-#### Website Development
-- <b>Front-end</b> : HTML5, CSS3, XML, Bootstrap, JavaScript, jQuery
-- <b>Back-end</b> : Laravel, Codeigniter, Symphony, CakePHP
-- <b>Custom APIs Development</b> : JavaScript, Angular, Vue, & Node.js (Restful, & SOAP)
-- <b>JS Frameworks</b> : Angular, Vue, React, Express, Backbone, & Node
-- <b>Database</b> : MS SQL Server, SQL Azure, MySQL, Entity Framework, Dapper.NET, LINQ to SQL, CSLA.NET, JSON
-- <b>MySQL, MSSQL, Mongo DB, PostgreSQL, Oracle MySQL</b>
-- <b>Operating Systems</b> : Windows Enterprise, Linux, MacBook Pro
-- <b>Web services</b> : WSDL, SOAP, JSON0
-- <b>Visual Basic.NET, ASP.NET, .NET Core; Razor pages, WebAPI, WebForms, DotNetNuke</b>
-- <b>Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on </b>
-#### Mobile Application Development
+---
 
-- <b>Swift, Objective-C, Java, Xcode, Android Studio</b>
-- <b>React Native, Ionic Framework, Xamarin, Flutter, Kotlin</b>
-- <b>Cocoa Touch, AVFoundation, CoreImage, CoreData, MapKit, SpriteKit, CloudKit, Core Audio, CoreMIDI</b>
-- <b>Android SDK, Android NDK, SQLite</b>
-- <b>JUnit, Mockito, Robolectric</b>
-- <b>MVVM, MVP</b>
+## 📫 Let’s Connect
 
+- 💼 LinkedIn: 
+- 💻 GitHub: 
+- ✉️ Email: 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/0x3fdegou?theme=light&font=Delius%20Unicase&ext=heatmap&site=cn&border=1&width=500)
+---
 
-https://github.com/tandpfun/skill-icons#readme
- 
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="my github stats" height="190px" />
-</p> 
-
--->
+⭐ *If you like what you see, feel free to star or fork my projects.*
