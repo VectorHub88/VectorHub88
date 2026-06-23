@@ -2,7 +2,7 @@
 
 I build scalable, production-ready web and SaaS applications.
 
-With 5+ years of experience, I work across backend, frontend, cloud, and DevOps, delivering clean, reliable solutions and owning features end-to-end.
+With 7+ years of experience, I work across backend, frontend, cloud, and DevOps, delivering clean, reliable solutions and owning features end-to-end.
 
 ## 🛠 Tech Stack
 
